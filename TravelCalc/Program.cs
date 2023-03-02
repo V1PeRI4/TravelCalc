@@ -19,7 +19,7 @@ namespace TravelCalc
             City[] cities = new City[] {
 
                     new City  (1, "Берлин", 399, 175, 1.13), 
-                    new City  (2, "Прага", 300, 175),
+                    new City  (2, "Прага", 300, 270),
                     new City  (3, "Париж", 350, 220),
                     new City  (4, "Рига", 250, 170),
                     new City  (5, "Лондон", 390, 270),
@@ -28,7 +28,7 @@ namespace TravelCalc
                     new City  (8, "Варшава", 300, 190),
                     new City  (9, "Кишинев", 215, 110), 
                     new City  (10, "Мадрид", 260, 190), 
-                    new City  (11, "Будапешт", 399, 175) 
+                    new City  (11, "Будапешт", 269, 230) 
                 };
             return cities;
 
