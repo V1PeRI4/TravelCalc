@@ -8,8 +8,6 @@ namespace TravelCalc
 {
     public class City
     {
-
-
         public City(int id, string name, double price, double transit, double tax)
         {
             this.id = id;

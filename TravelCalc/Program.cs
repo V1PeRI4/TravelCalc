@@ -97,7 +97,7 @@ namespace TravelCalc
             Console.WriteLine($"Стоимость поездки: {price}");
 
             if(price > budget)
-                Console.WriteLine("Дорога");
+                Console.WriteLine("ДороХа, не в этот раз");
 
             Console.ReadLine();
         }
